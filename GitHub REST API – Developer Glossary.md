@@ -55,6 +55,8 @@ Commonly used to test API calls:
 
 ```bash
 curl -H "Authorization: Bearer <token>" https://api.github.com/user
+```
+---
 
 ## 🔐 OAuth App
 
@@ -121,7 +123,7 @@ Example payload:
     "name": "my-repo"
   }
 }
-
+```
 ## 📚 References
 
 - [GitHub REST API Docs](https://docs.github.com/en/rest)  
