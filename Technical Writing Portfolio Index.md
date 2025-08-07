@@ -27,6 +27,10 @@ Welcome to my portfolio. Below you’ll find a curated selection of technical do
    _Type: [Zoom Release Notes – July 2025 Update]_  
    ➤ [Zoom Release Notes – July 2025](https://github.com/magnolianat/Technical-Portfolio/blob/main/Zoom%20Release%20Notes%20%E2%80%93%20July%202025.md)
 
+6. **[Microsoft Teams Release Notes - August 2025]**  
+   _Type: [Microsoft Teams Release Notes – August 2025 Update]_  
+   ➤ [Microsoft Teams Release Notes – August 2025](https://github.com/magnolianat/Technical-Portfolio/blob/main/Zoom%20Release%20Notes%20%E2%80%93%20July%202025.md)
 ---
 
 Feel free to explore each document to get a sense of my approach to tone, structure, and developer communication.
+
