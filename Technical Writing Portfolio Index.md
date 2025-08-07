@@ -8,7 +8,8 @@ Welcome to my portfolio. Below you’ll find a curated selection of technical do
 
 1. **[GitHub REST API-Developer Glossary]**  
    _Type: [Developer oriented terminology]_  
-   ➤ [https://github.com/magnolianat/Technical-Portfolio/blob/main/GitHub%20REST%20API%20%E2%80%93%20Developer%20Glossary.md](#)
+   ➤ [GitHub REST API – Developer Glossary.md](#)
+
 
 2. **[GitHub REST API- Repositories]**  
    _Type: [Repositories Endpoint Documentation]_  
