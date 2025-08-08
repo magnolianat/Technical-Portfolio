@@ -92,10 +92,9 @@
 - [Microsoft Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)  
 - [GitHub Docs Contribution Guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
 
-[Back to Index](https://github.com/magnolianat/Technical-Portfolio/blob/main/Technical%20Writing%20Portfolio%20Index.md)
-
 ---
 
 ## ✍️ You're Ready to Start Writing!
 Welcome aboard — your words make technology accessible 🚀
 
+[Back to Index](https://github.com/magnolianat/Technical-Portfolio/blob/main/Technical%20Writing%20Portfolio%20Index.md)
