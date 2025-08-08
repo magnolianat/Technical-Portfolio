@@ -1,4 +1,4 @@
-📘 GitHub REST API – Developer Glossary
+# 📘 GitHub REST API – Developer Glossary #
 
 ## 📑 Table of Contents
 
@@ -131,3 +131,4 @@ Example payload:
 - [GitHub Webhooks](https://docs.github.com/en/webhooks)
 
 [Back to Index](https://github.com/magnolianat/Technical-Portfolio/blob/main/Technical%20Writing%20Portfolio%20Index.md)
+
