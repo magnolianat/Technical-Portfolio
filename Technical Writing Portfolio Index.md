@@ -34,7 +34,6 @@ Welcome to my portfolio. Below, you’ll find a curated selection of technical d
 
 Feel free to explore each document to get a sense of my approach to tone, structure, and developer communication.
 
-[Back to Index](https://github.com/magnolianat/Technical-Portfolio/blob/main/Technical%20Writing%20Portfolio%20Index.md)
 
 
 
