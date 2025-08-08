@@ -129,3 +129,5 @@ Example payload:
 - [GitHub REST API Docs](https://docs.github.com/en/rest)  
 - [Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/personal-access-tokens)  
 - [GitHub Webhooks](https://docs.github.com/en/webhooks)
+
+[Back to Index](https://github.com/magnolianat/Technical-Portfolio/blob/main/Technical%20Writing%20Portfolio%20Index.md)
