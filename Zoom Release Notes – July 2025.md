@@ -48,3 +48,4 @@
 
 For more details, visit [Zoom Release Notes](https://support.zoom.us/hc/en-us/articles/201361953-Release-notes).
 
+[Back to Index](https://github.com/magnolianat/Technical-Portfolio/blob/main/Technical%20Writing%20Portfolio%20Index.md)
