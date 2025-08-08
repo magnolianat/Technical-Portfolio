@@ -116,7 +116,8 @@ DELETE /repos/your-username/my-old-repo
 ## 📚 Additional Resources
 - [GitHub REST API Docs](https://docs.github.com/en/rest)
 
+- [Personal Access Tokens](https://github.com/settings/tokens)
+
 
 [Back to Index](https://github.com/magnolianat/Technical-Portfolio/blob/main/Technical%20Writing%20Portfolio%20Index.md)
-- [Personal Access Tokens](https://github.com/settings/tokens)
 
