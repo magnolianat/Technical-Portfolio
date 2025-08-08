@@ -83,4 +83,6 @@ Slack is a messaging platform designed for collaboration. This guide will help n
 ---
 
 ## 📌 Summary
-Slack enables fast, transparent communication within remote teams. With channels, integrations, and threads, you can streamline collaboration and reduce email clutter.
+Slack enables fast, transparent communication within remote teams. With channels, integrations, and threads, you can streamline collaboration and reduce email 
+
+[Back to Index](https://github.com/magnolianat/Technical-Portfolio/blob/main/Technical%20Writing%20Portfolio%20Index.md)clutter.
