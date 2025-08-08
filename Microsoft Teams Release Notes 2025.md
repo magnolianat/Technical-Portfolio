@@ -56,3 +56,6 @@ Need help? Visit [support.microsoft.com/teams](https://support.microsoft.com/tea
 ---
 
 📣 _Keep your collaboration flowing — with a little help from AI and your favorite team platform._
+
+[Back to Index](https://github.com/magnolianat/Technical-Portfolio/blob/main/Technical%20Writing%20Portfolio%20Index.md)
+
