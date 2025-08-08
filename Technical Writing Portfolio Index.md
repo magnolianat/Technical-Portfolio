@@ -1,13 +1,13 @@
 # 📘 Technical Writing Portfolio Index
 
-Welcome to my portfolio. Below you’ll find a curated selection of technical documentation samples showcasing my skills in clarity, structure, and developer-focused content.
+Welcome to my portfolio. Below, you’ll find a curated selection of technical documentation samples that showcase my skills in clarity, structure, and developer-focused content.
 
 ---
 
 ## 📑 Index of Samples
 
 1. **[GitHub REST API-Developer Glossary]**  
-   _Type: [Developer oriented terminology]_  
+   _Type: [Developer-oriented terminology]_  
    ➤ [GitHub REST API – Developer Glossary](https://github.com/magnolianat/Technical-Portfolio/blob/main/GitHub%20REST%20API%20%E2%80%93%20Developer%20Glossary.md)
 
 
@@ -33,6 +33,9 @@ Welcome to my portfolio. Below you’ll find a curated selection of technical do
 ---
 
 Feel free to explore each document to get a sense of my approach to tone, structure, and developer communication.
+
+[Back to Index](https://github.com/magnolianat/Technical-Portfolio/blob/main/Technical%20Writing%20Portfolio%20Index.md)
+
 
 
 
